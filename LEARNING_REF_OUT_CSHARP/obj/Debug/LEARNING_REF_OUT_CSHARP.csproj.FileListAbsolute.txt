@@ -1,0 +1,8 @@
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_REF_OUT_CSHARP\LEARNING_REF_OUT_CSHARP\bin\Debug\LEARNING_REF_OUT_CSHARP.exe.config
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_REF_OUT_CSHARP\LEARNING_REF_OUT_CSHARP\bin\Debug\LEARNING_REF_OUT_CSHARP.exe
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_REF_OUT_CSHARP\LEARNING_REF_OUT_CSHARP\bin\Debug\LEARNING_REF_OUT_CSHARP.pdb
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_REF_OUT_CSHARP\LEARNING_REF_OUT_CSHARP\obj\Debug\LEARNING_REF_OUT_CSHARP.csproj.AssemblyReference.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_REF_OUT_CSHARP\LEARNING_REF_OUT_CSHARP\obj\Debug\LEARNING_REF_OUT_CSHARP.csproj.SuggestedBindingRedirects.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_REF_OUT_CSHARP\LEARNING_REF_OUT_CSHARP\obj\Debug\LEARNING_REF_OUT_CSHARP.csproj.CoreCompileInputs.cache
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_REF_OUT_CSHARP\LEARNING_REF_OUT_CSHARP\obj\Debug\LEARNING_REF_OUT_CSHARP.exe
+D:\MyFolder\MyLearning\C# - Courses\C#-Programming\Sources\LEARNING_REF_OUT_CSHARP\LEARNING_REF_OUT_CSHARP\obj\Debug\LEARNING_REF_OUT_CSHARP.pdb
